@@ -20,6 +20,6 @@ This project automates employee onboarding and offboarding using ServiceNow Crea
 Employee onboarding request automatically creates tasks for HR, Manager, IT, Facilities and Security teams.
 
 ## Developed By
-Abhay Kumar Pathak
-Aishwarya Sinha
+Abhay Kumar Pathak,
+Aishwarya Sinha,
 Aryan Yadav
