@@ -1,0 +1,87 @@
+# Automated Employee Onboarding & Offboarding System (ServiceNow)
+
+## 📌 Project Overview
+
+The **Employee Onboarding & Offboarding System** is built using the ServiceNow platform to automate the employee lifecycle process.
+It replaces manual HR workflows with automated catalog requests, approval flows, task assignments, SLA monitoring, and dashboards.
+
+The system ensures that when HR submits an onboarding or offboarding request, the process automatically moves through approvals and departmental task completion.
+
+---
+
+## 🚀 Key Features
+
+* Service Catalog request forms for onboarding and offboarding
+* Manager approval workflow using Flow Designer
+* Automatic task creation for IT, Facilities, and Security teams
+* SLA tracking to ensure tasks are completed on time
+* Role-based access control (ACL) for security
+* Real-time dashboards and reports for HR monitoring
+* Email notifications for approvals and task updates
+
+---
+
+## ⚙️ Technologies Used
+
+* **ServiceNow Platform**
+* Flow Designer
+* Service Catalog
+* Custom Tables
+* Access Control Lists (ACL)
+* Service Level Agreements (SLA)
+* Reports & Dashboards
+
+---
+
+## 🔄 Workflow Process
+
+1. HR submits an onboarding or offboarding request through the **Service Catalog**.
+2. The system triggers a **manager approval** workflow.
+3. Once approved, tasks are automatically created for:
+
+   * IT Team → Laptop setup
+   * Facilities Team → Desk allocation
+   * Security Team → ID card creation
+4. SLAs monitor the completion time of each task.
+5. HR can monitor progress through **dashboards and reports**.
+
+---
+
+## 📊 Dashboard Metrics
+
+The HR dashboard shows:
+
+* Total onboarding requests
+* Pending approvals
+* Completed tasks
+* SLA status
+
+---
+
+## 🔒 Security
+
+Role-based access control ensures that only authorized users can access or modify employee lifecycle records.
+
+---
+
+## 🔮 Future Enhancements
+
+* Integration with enterprise HR systems (SAP / Workday)
+* Automated employee account creation
+* Integration with Active Directory
+* AI-based HR analytics
+* Mobile notifications
+
+---
+
+## 👨‍💻 Team Members
+
+* Aishwarya Sinha
+* Abhay Kumar Pathak
+* Aryan Yadav
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates how ServiceNow can automate the employee lifecycle process, reducing manual work and improving efficiency, transparency, and compliance within the organization.
